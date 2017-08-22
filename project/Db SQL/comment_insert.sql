@@ -1,0 +1,1 @@
+insert into comment(b_no, ctext, cid, ctime) values(9, "저는 할만하던데ㅎㅎ", "child", '2016-12-13 10:39:37');

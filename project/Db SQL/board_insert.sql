@@ -1,0 +1,1 @@
+insert into board (b_id, b_text) values('wanb', '이곳이 게시판 입니다');
